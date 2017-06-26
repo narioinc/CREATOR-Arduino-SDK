@@ -24,6 +24,7 @@
           "size": "27065302",
           "boards": [
             {"name": "Ameba RTL8195A"},
+             {"name": "Ameba RTL8711A"},
             {"name": "Ameba RTL8710"}
           ],
           "toolsDependencies": [
